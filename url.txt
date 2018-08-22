@@ -1,0 +1,8 @@
+#SSD目标检测(1)：图片+视频内的物体定位（附源码）
+https://blog.csdn.net/zzz_cming/article/details/81128460
+
+#SSD目标检测(2)：如何制作自己的数据集（详细说明附源码）
+https://blog.csdn.net/zzz_cming/article/details/81131101
+
+#SSD目标检测(3)：使用自己的数据集做预测（详细说明附源码）
+https://blog.csdn.net/zzz_cming/article/details/81131523		
