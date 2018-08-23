@@ -10,3 +10,5 @@ https://blog.csdn.net/zzz_cming/article/details/81131523
 #python爬虫之scrapy中user agent浅谈（两种方法）
 https://blog.csdn.net/china_python/article/details/78619170
 
+#利用python 爬取动态页面的图片(以百度图片为例)
+https://blog.csdn.net/sinat_35866463/article/details/80341524
