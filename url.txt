@@ -5,4 +5,8 @@ https://blog.csdn.net/zzz_cming/article/details/81128460
 https://blog.csdn.net/zzz_cming/article/details/81131101
 
 #SSD目标检测(3)：使用自己的数据集做预测（详细说明附源码）
-https://blog.csdn.net/zzz_cming/article/details/81131523		
+https://blog.csdn.net/zzz_cming/article/details/81131523	
+
+#python爬虫之scrapy中user agent浅谈（两种方法）
+https://blog.csdn.net/china_python/article/details/78619170
+
