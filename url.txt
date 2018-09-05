@@ -12,3 +12,28 @@ https://blog.csdn.net/china_python/article/details/78619170
 
 #利用python 爬取动态页面的图片(以百度图片为例)
 https://blog.csdn.net/sinat_35866463/article/details/80341524
+
+#使用tensorflow object detection API 训练自己的目标检测模型 （一）labelImg的安装配置过程
+https://blog.csdn.net/zj1131190425/article/details/80726353
+
+#使用tensorflow object detection API 训练自己的目标检测模型 （二）
+https://blog.csdn.net/zj1131190425/article/details/80778888
+
+#Tensorflow object detection API 详细配置教程
+https://blog.csdn.net/zj1131190425/article/details/80711857
+
+#Tensorflow detection model zoo
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
+
+#TensorFlow-Slim image classification model library
+https://github.com/tensorflow/models/tree/master/research/slim
+
+
+#Tensorflow object detection API 
+https://github.com/tensorflow/models
+
+#163study-AI
+https://mooc.study.163.com/learn/2001281002?tid=2001392029#/learn/content?type=detail&id=2001702024
+
+#Git操作
+https://blog.csdn.net/wangrenbao123/article/details/55511461/
