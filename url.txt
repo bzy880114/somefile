@@ -37,3 +37,26 @@ https://mooc.study.163.com/learn/2001281002?tid=2001392029#/learn/content?type=d
 
 #Git操作
 https://blog.csdn.net/wangrenbao123/article/details/55511461/
+
+#在指定的环境中的目录下添加tensorflow_model.pth文件
+（D:\ProgramData\Anaconda3\envs\tensorflow\Lib\site-packages
+
+）内容如下：
+
+I:\Anaconda\StudyTensorflow\models\research\slim
+
+I:\Anaconda\StudyTensorflow\models\research
+
+#Tensorflow 摄像头物体实时识别
+https://blog.csdn.net/qq_27297393/article/details/80556833
+https://blog.csdn.net/xiaoxiao123jun/article/details/76605928
+https://blog.csdn.net/lhs960124/article/details/79840048
+
+#Java调用Python程序方法总结(最全最详细)
+https://blog.csdn.net/IT_xiao_bai/article/details/79074988
+
+#大杂烩
+https://blog.csdn.net/jinsefm/rss/list
+
+#OpenCV+ffmepg
+https://jiasule.v2ex.com/t/436280
