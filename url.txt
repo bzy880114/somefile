@@ -31,6 +31,7 @@ https://github.com/tensorflow/models/tree/master/research/slim
 
 #Tensorflow object detection API 
 https://github.com/tensorflow/models
+https://github.com/datitran/object_detector_app/blob/master/object_detection_multithreading.py
 
 #163study-AI
 https://mooc.study.163.com/learn/2001281002?tid=2001392029#/learn/content?type=detail&id=2001702024
@@ -60,3 +61,12 @@ https://blog.csdn.net/jinsefm/rss/list
 
 #OpenCV+ffmepg
 https://jiasule.v2ex.com/t/436280
+
+#python装饰器实现私有属性,公有属性
+https://blog.csdn.net/dashoumeixi/article/details/80739282?utm_source=blogxgwz1
+
+#详解Python的装饰器
+https://www.cnblogs.com/cicaday/p/python-decorator.html
+
+#决策树可视化
+https://www.cnblogs.com/pinard/p/6056319.html
